@@ -5,6 +5,6 @@ os: linux
 
 files:
 
-  - source: ./my-newapp-1.0-SNAPSHOT.class
+  - source: ./my-newapp-1.0-SNAPSHOT.jar
 
     destination: /tmp
