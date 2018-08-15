@@ -20,7 +20,7 @@ artifacts:
 
   files:
 
-    - target/my-newapp-1.0-SNAPSHOT.java
+    - target/my-newapp-1.0-SNAPSHOT.class
 
     - appspec.yml
 
